@@ -1,0 +1,10 @@
+* 1st program - should throw error because we can not iterate through int value
+
+* 2nd program - the output would be as follow:
+0
+error
+1
+error
+2
+
+* 3rd program - it will print value 0 1 2 3 4 with error message because "Break" should be "break"
