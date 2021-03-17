@@ -1,0 +1,7 @@
+i)
+output should be 2
+
+ii)
+output should be following with error message for "f(x,4)"
+after f
+after f?
